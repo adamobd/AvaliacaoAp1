@@ -1,0 +1,8 @@
+Abertura do repositório no Github
+Execução do terminal na pasta local
+Clone do repositório na pasta local: git clone https://github.com/adamobd/AvaliacaoAp1.git
+Acesso ao diretório: cd AvaliacaoAp1
+Criação deste arquivo: touch ap1.txt
+Abertura do arquivo no VSCode: code .
+Criação do arquivo ap1-1.txt: touch ap1-1.txt
+Upload para o repositório remoto: add . && git commit -m "envio Ap1" && git push
